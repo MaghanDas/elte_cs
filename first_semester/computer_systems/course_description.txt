@@ -1,0 +1,17 @@
+This course has 5 credit hour values
+practise + lectures
+-----------------------------------
+content of the course is 
+-------------------------------------
+Fundaments of computers (SW,HW), storage principles
+Operating system functionality, basic commands
+Shell types, programming features
+Shell script 1.
+Shell script 2.
+Shell script 2.
+Networking concepts
+Powershell 1.
+Powershell 2.
+Powershell 3.
+CPU architectures, from assembly to high level programming
+Board based controllers (Arduino, RPI3)
