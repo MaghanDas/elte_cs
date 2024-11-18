@@ -1,2 +1,2 @@
 # elte_cs
-I study bachelor's in computer science in Eotvos Lorand University, Budapest Hungary.  I will share the learning here .
+I am a Computer Science Student at Eotvos Lorand University in Budapest, Hungary. I will share my learning here. You can also find individual courses' repos on my GitHub.
